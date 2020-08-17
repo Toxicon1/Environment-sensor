@@ -1,6 +1,6 @@
 #include <Arduino.h>
-#include "DHT 22"
-#include "liquidCrystal_I2C"
+#include "DHT.h"
+#include "LiquidCrystal_I2C.h"
 
 void setup() {
   // put your setup code here, to run once:
